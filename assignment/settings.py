@@ -25,7 +25,7 @@ SECRET_KEY = '3v&zx0ptx&t-@82g(-1$w-o@)%)hlrhw1##!h!p^u$xfe4j^)+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['parkzaplabz.herokuapp.com']
 
 
 # Application definition
